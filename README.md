@@ -23,7 +23,8 @@ Here are some Design which i had made for my Fashion Club when i was assigned as
 
 Here are some Designs which i had made for my Music Club when i was assigned as Creative Head.
 #output
-<img src="https://user-images.githubusercontent.com/95771174/233713506-baa6e0e1-085d-4cdc-9938-0548cb5ffd2c.png" width="250rem" height="400rem">
+<img src="https://user-images.githubusercontent.com/95771174/233718257-657278a0-bf3f-445b-b2f5-25e163442bc8.png" width="250rem" height="400rem">
+<img src="https://user-images.githubusercontent.com/95771174/233718623-b715821f-cdfe-40dc-b403-a5b10cc583e2.png" width="250rem" height="400rem">
 <img src="https://user-images.githubusercontent.com/95771174/233713611-e4125824-fc91-4e47-ba08-85a087029681.png" width="250rem" height="400rem">
 <img src="https://user-images.githubusercontent.com/95771174/233713724-3a3d9d32-4eaf-46b5-a083-4d833921d80c.png" width="250rem" height="400rem">
 <img src="https://user-images.githubusercontent.com/95771174/233713837-3b6b6475-be7e-4873-bcf0-f9311cf192e5.png" width="250rem" height="400rem">
@@ -31,6 +32,18 @@ Here are some Designs which i had made for my Music Club when i was assigned as 
 <img src="https://user-images.githubusercontent.com/95771174/233714087-c7959e7f-cc30-47ce-9cc5-bde4c0d99069.png" width="250rem" height="400rem">
 <img src="https://user-images.githubusercontent.com/95771174/233714150-623cd371-0431-4a56-92d9-7ffc8adf16f9.png" width="250rem" height="400rem">
 <img src="https://user-images.githubusercontent.com/95771174/233714380-d3999666-13b3-46ee-a4bf-6264e05f1bb6.png" width="250rem" height="400rem">
+<img src="https://user-images.githubusercontent.com/95771174/233719127-dd936b03-f8a4-44d7-88fd-72e96e59191b.png" width="250rem" height="400rem">
+<img src="https://user-images.githubusercontent.com/95771174/233718999-af455471-f938-4569-b470-50d1167c48ae.png" width="250rem" height="400rem">
+<img src="https://user-images.githubusercontent.com/95771174/233719010-2bd1e318-6205-4c4f-9e6c-04c12a64038e.png" width="250rem" height="400rem">
+<img src="https://user-images.githubusercontent.com/95771174/233719062-9bdff0fa-3cef-4aa6-8f84-b87c9dc223dc.png" width="250rem" height="400rem">
+<img src="https://user-images.githubusercontent.com/95771174/233718946-f844c67b-e3c6-43f9-a798-9b1391c7af2a.png" width="250rem" height="400rem">
+<img src="https://user-images.githubusercontent.com/95771174/233718968-cd441f5f-892e-4a08-b816-227b33ffd449.png" width="250rem" height="400rem">
+
+
+
+
+
+
 
 
 
